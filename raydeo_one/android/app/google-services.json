@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "925330772922",
+    "project_id": "radioone-9562f",
+    "storage_bucket": "radioone-9562f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925330772922:android:0df234080cc9b6c9acc383",
+        "android_client_info": {
+          "package_name": "com.mobil80.radio.ONE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925330772922-dl169dfq9f1ougt2puhhdoqp24j4jlvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobil80.radio.ONE",
+            "certificate_hash": "7f2d58527c96e3180b3d4687195c5cd1790478b3"
+          }
+        },
+        {
+          "client_id": "925330772922-pvud06nl4ibfp5v1rvij1k8u0aqhujrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobil80.radio.ONE",
+            "certificate_hash": "ac0a4f6914522196465fe5658f2c262464e26081"
+          }
+        },
+        {
+          "client_id": "925330772922-8vroqqt3esnt3ig22s68pbi4g81pu9tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxXfWoQXKxkfHNiZEdKLjCLd9AZ4bgpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925330772922-8vroqqt3esnt3ig22s68pbi4g81pu9tv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925330772922-960j7skr8ji690fio9pasvv56svq6c2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.raydeoOne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-radioone-dev-175109-authRole",
+      "UnauthRoleArn": "arn:aws:iam::261871354613:role/amplify-radioone-dev-175109-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::261871354613:role/amplify-radioone-dev-175109-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-radioone-dev-175109-deployment",
+      "UnauthRoleName": "amplify-radioone-dev-175109-unauthRole",
+      "StackName": "amplify-radioone-dev-175109",
+      "StackId": "arn:aws:cloudformation:ap-south-1:261871354613:stack/amplify-radioone-dev-175109/c724c6e0-0e9b-11ee-8beb-06377f797fee",
+      "AmplifyAppId": "d32gm9b65sjqvl"
+    }
+  }
+}

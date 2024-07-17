@@ -1,0 +1,18 @@
+projects:
+  radio_one_mobile:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - src/graphql/**/*.js
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: src/graphql
+        region: ap-south-1
+        apiId: bb2zw4jjirfpfa2ocux2bkjcea
+        maxDepth: 2
+extensions:
+  amplify:
+    version: 3
