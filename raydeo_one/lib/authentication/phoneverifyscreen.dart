@@ -69,7 +69,7 @@ class _PhoneVerifyScreenState extends State<PhoneVerifyScreen> {
                         Container(
                           width: 180,
                           height: 180,
-                          child: ClipRRect(
+                          child: const ClipRRect(
                               borderRadius:
                                   BorderRadius.all(Radius.circular(15)),
                               child: Image(
