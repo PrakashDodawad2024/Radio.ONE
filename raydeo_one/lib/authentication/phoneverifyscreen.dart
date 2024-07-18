@@ -66,10 +66,10 @@ class _PhoneVerifyScreenState extends State<PhoneVerifyScreen> {
                   child: Center(
                     child: Column(
                       children: [
-                        Container(
+                        const SizedBox(
                           width: 180,
                           height: 180,
-                          child: const ClipRRect(
+                          child: ClipRRect(
                               borderRadius:
                                   BorderRadius.all(Radius.circular(15)),
                               child: Image(
