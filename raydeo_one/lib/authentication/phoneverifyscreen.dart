@@ -105,7 +105,7 @@ class _PhoneVerifyScreenState extends State<PhoneVerifyScreen> {
                   children: [
                     Text.rich(
                       TextSpan(
-                        text: 'Enter the OTP sent ',
+                        text: 'Enter the OTP sent',
                         style: const TextStyle(
                             fontSize: 16, fontWeight: FontWeight.bold),
                         children: <TextSpan>[
